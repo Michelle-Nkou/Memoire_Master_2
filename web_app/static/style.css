@@ -1,0 +1,37 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #131722;
+}
+
+#tradingview_68c67{
+    width: 100%;
+    height: 50vh;
+}
+
+.card-body {
+    background-color: #2A303F;
+    color: white!important;
+}
+
+.card-header {
+    background-color: #2A303F;
+    color: white!important;
+}
+
+
+tbody, td, tfoot, th, thead, tr{
+    background-color: #2A303F!important;
+    color: white!important;
+}
+
+.card-footer:last-child{
+    background-color: #2A303F!important;
+    color: white!important;
+}
+
+.card-header-title{
+    color: white!important;
+}

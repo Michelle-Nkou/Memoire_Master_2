@@ -1,0 +1,254 @@
+[
+    {
+        "Entreprise":"RI.PA - Pernod Ricard",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":188.73,
+        "Capital Investi":471825,
+        "Cours Actuel":181.19,
+        "Valorisation":452975,
+        "Beta":0.132345783
+    },
+    {
+        "Entreprise":"ORA.PA - Orange",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":9.3,
+        "Capital Investi":23250,
+        "Cours Actuel":10.35,
+        "Valorisation":25875,
+        "Beta":0.1055631364
+    },
+    {
+        "Entreprise":"CA.PA - Carrefour",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":15.69,
+        "Capital Investi":39225,
+        "Cours Actuel":17.67,
+        "Valorisation":44175,
+        "Beta":0.1541773089
+    },
+    {
+        "Entreprise":"ML.PA - Michelin",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":25.65,
+        "Capital Investi":64125,
+        "Cours Actuel":28.91,
+        "Valorisation":72275,
+        "Beta":0.3197835978
+    },
+    {
+        "Entreprise":"VIE.PA - Veolia",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":23.36,
+        "Capital Investi":58400,
+        "Cours Actuel":28.86,
+        "Valorisation":72150,
+        "Beta":0.294477549
+    },
+    {
+        "Entreprise":"ACA.PA - Cr\u00e9dit Agricole",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":8.12,
+        "Capital Investi":20300,
+        "Cours Actuel":11.65,
+        "Valorisation":29125,
+        "Beta":0.3079769501
+    },
+    {
+        "Entreprise":"MC.PA - LVMH Mo\u00ebt",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":678.32,
+        "Capital Investi":1695800,
+        "Cours Actuel":782.2,
+        "Valorisation":1955500,
+        "Beta":0.3528103228
+    },
+    {
+        "Entreprise":"SGO.PA - Saint-Gobain",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":43.52,
+        "Capital Investi":108800,
+        "Cours Actuel":60.16,
+        "Valorisation":150400,
+        "Beta":0.4738919851
+    },
+    {
+        "Entreprise":"CAP.PA - Capgemini",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":181.57,
+        "Capital Investi":453925,
+        "Cours Actuel":172.35,
+        "Valorisation":430875,
+        "Beta":0.2535727198
+    },
+    {
+        "Entreprise":"WLN.PA - Worldline",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":42.9,
+        "Capital Investi":107250,
+        "Cours Actuel":30.08,
+        "Valorisation":75200,
+        "Beta":0.3443911707
+    },
+    {
+        "Entreprise":"KER.PA - Kering",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":539.49,
+        "Capital Investi":1348725,
+        "Cours Actuel":494.2,
+        "Valorisation":1235500,
+        "Beta":0.2542140004
+    },
+    {
+        "Entreprise":"ATO.PA - Atos",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":11.78,
+        "Capital Investi":29450,
+        "Cours Actuel":7.76,
+        "Valorisation":19400,
+        "Beta":0.6396164962
+    },
+    {
+        "Entreprise":"ENGI.PA - Engie",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":11.28,
+        "Capital Investi":28200,
+        "Cours Actuel":14.89,
+        "Valorisation":37225,
+        "Beta":0.1264319088
+    },
+    {
+        "Entreprise":"AIR.PA - Airbus",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":101.04,
+        "Capital Investi":252600,
+        "Cours Actuel":135.38,
+        "Valorisation":338450,
+        "Beta":0.1292580152
+    },
+    {
+        "Entreprise":"BN.PA - Danone",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":51.95,
+        "Capital Investi":129875,
+        "Cours Actuel":53.83,
+        "Valorisation":134575,
+        "Beta":0.0749995708
+    },
+    {
+        "Entreprise":"DG.PA - Vinci",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":88.33,
+        "Capital Investi":220825,
+        "Cours Actuel":102.95,
+        "Valorisation":257375,
+        "Beta":0.2796157136
+    },
+    {
+        "Entreprise":"EN.PA - Bouygues",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":27.66,
+        "Capital Investi":69150,
+        "Cours Actuel":31.89,
+        "Valorisation":79725,
+        "Beta":0.2378010413
+    },
+    {
+        "Entreprise":"HO.PA - Thales",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":122.39,
+        "Capital Investi":305975,
+        "Cours Actuel":134.8,
+        "Valorisation":337000,
+        "Beta":0.0648856387
+    },
+    {
+        "Entreprise":"BNP.PA - BNP Paribas",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":42.87,
+        "Capital Investi":107175,
+        "Cours Actuel":59.7,
+        "Valorisation":149250,
+        "Beta":0.4002332755
+    },
+    {
+        "Entreprise":"SW.PA - Sodexo",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":78.05,
+        "Capital Investi":195125,
+        "Cours Actuel":99.01,
+        "Valorisation":247525,
+        "Beta":0.0353269508
+    },
+    {
+        "Entreprise":"OR.PA - LOr\u00e9al",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":359.01,
+        "Capital Investi":897525,
+        "Cours Actuel":405.79,
+        "Valorisation":1014475,
+        "Beta":0.1793541001
+    },
+    {
+        "Entreprise":"GLE.PA - Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":20.08,
+        "Capital Investi":50200,
+        "Cours Actuel":26.21,
+        "Valorisation":65525,
+        "Beta":0.2223508713
+    },
+    {
+        "Entreprise":"LR.PA - LafargeHolcim",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":80.44,
+        "Capital Investi":201100,
+        "Cours Actuel":91.09,
+        "Valorisation":227725,
+        "Beta":0.1332286412
+    },
+    {
+        "Entreprise":"AI.PA - Air Liquide",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":130.15,
+        "Capital Investi":325375,
+        "Cours Actuel":166.86,
+        "Valorisation":417150,
+        "Beta":0.3195833187
+    },
+    {
+        "Entreprise":"VIV.PA - Vivendi",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":8.92,
+        "Capital Investi":22300,
+        "Cours Actuel":8.4,
+        "Valorisation":21000,
+        "Beta":0.2816429777
+    },
+    {
+        "Entreprise":"SU.PA - Schneider Electric",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":130.61,
+        "Capital Investi":326525,
+        "Cours Actuel":158.58,
+        "Valorisation":396450,
+        "Beta":0.1241246455
+    },
+    {
+        "Entreprise":"SAN.PA - Sanofi",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":91.1,
+        "Capital Investi":227750,
+        "Cours Actuel":98.63,
+        "Valorisation":246575,
+        "Beta":0.0612779042
+    },
+    {
+        "Entreprise":"AC.PA - Accor",
+        "Quantit\u00e9":2500,
+        "Prix Unitaire":25.37,
+        "Capital Investi":63425,
+        "Cours Actuel":33.09,
+        "Valorisation":82725,
+        "Beta":0.2444105183
+    }
+]

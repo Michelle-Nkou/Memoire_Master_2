@@ -1,0 +1,122 @@
+[
+    {
+        "Entreprise":"Total",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":58.12,
+        "Capital Investi":303095.8,
+        "Cours Actuel":57.04,
+        "Valorisation":297463.6
+    },
+    {
+        "Entreprise":"Sanofi",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":91.1,
+        "Capital Investi":475086.5,
+        "Cours Actuel":98.63,
+        "Valorisation":514355.45
+    },
+    {
+        "Entreprise":"Danone",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":51.95,
+        "Capital Investi":270919.25,
+        "Cours Actuel":54.5,
+        "Valorisation":284217.5
+    },
+    {
+        "Entreprise":"Cr\u00e9dit agricolt",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":8.12,
+        "Capital Investi":42345.8,
+        "Cours Actuel":11.656,
+        "Valorisation":60786.04
+    },
+    {
+        "Entreprise":"LOr\u00e9al",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":359.01,
+        "Capital Investi":1872237.1499999999,
+        "Cours Actuel":405.79,
+        "Valorisation":2116194.8500000001
+    },
+    {
+        "Entreprise":"Renault",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":29.97,
+        "Capital Investi":156293.55,
+        "Cours Actuel":37.22,
+        "Valorisation":194102.3
+    },
+    {
+        "Entreprise":"Stelantis",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":14.05,
+        "Capital Investi":73270.75,
+        "Cours Actuel":17.17,
+        "Valorisation":89541.55
+    },
+    {
+        "Entreprise":"Alstom",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":23.06,
+        "Capital Investi":120257.9,
+        "Cours Actuel":25.45,
+        "Valorisation":132721.75
+    },
+    {
+        "Entreprise":"Engi",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":12.42,
+        "Capital Investi":64770.3,
+        "Cours Actuel":14.89,
+        "Valorisation":77651.35
+    },
+    {
+        "Entreprise":"Airbus",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":101.04,
+        "Capital Investi":526923.6,
+        "Cours Actuel":135.38,
+        "Valorisation":706006.7
+    },
+    {
+        "Entreprise":"Carrefour",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":15.69,
+        "Capital Investi":81823.35,
+        "Cours Actuel":17.67,
+        "Valorisation":92149.05
+    },
+    {
+        "Entreprise":"Mcdonalds",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":264.23,
+        "Capital Investi":1377959.45,
+        "Cours Actuel":284.24,
+        "Valorisation":1482311.6000000001
+    },
+    {
+        "Entreprise":"Netflix",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":226.21,
+        "Capital Investi":1179685.1499999999,
+        "Cours Actuel":433.67,
+        "Valorisation":2261589.0499999998
+    },
+    {
+        "Entreprise":"Facebook",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":159.92,
+        "Capital Investi":833982.8,
+        "Cours Actuel":295.89,
+        "Valorisation":1543066.3500000001
+    },
+    {
+        "Entreprise":"Paypal",
+        "Quantit\u00e9":5215,
+        "Prix Unitaire":88.56,
+        "Capital Investi":461840.4,
+        "Cours Actuel":62.5,
+        "Valorisation":325937.5
+    }
+]
